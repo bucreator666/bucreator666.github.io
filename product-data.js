@@ -350,7 +350,7 @@ window.BU_PRODUCTS = [
     "description": "Emerald Butterfly combines rich green gemstone beads with crystal accents and butterfly charms to create a graceful accessory."
   },
    {
-    "id": "BC-031",
+    "id": "BC-032",
     "name": "hairy",
     "title": "hairy",
     "price": "450",
