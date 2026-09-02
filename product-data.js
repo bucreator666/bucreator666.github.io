@@ -371,7 +371,7 @@ window.BU_PRODUCTS = [
   "id": "BC-033",
   "name": "Red cherry",
   "title": "Red cherry",
-  "price": "250",
+  "price": "200",
   "image": "red cheery.jpeg",
   "images": [
     "red cheery.jpeg"
