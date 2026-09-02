@@ -349,6 +349,7 @@ window.BU_PRODUCTS = [
     ],
     "description": "Emerald Butterfly combines rich green gemstone beads with crystal accents and butterfly charms to create a graceful accessory."
   },
+  
    {
     "id": "BC-032",
     "name": "hairy",
@@ -365,6 +366,66 @@ window.BU_PRODUCTS = [
     ],
     "description": "Emerald Butterfly combines rich green gemstone beads with crystal accents and butterfly charms to create a graceful accessory."
   },
+
+  {
+  "id": "BC-033",
+  "name": "Red cherry",
+  "title": "Red cherry",
+  "price": "250",
+  "image": "red cheery.jpeg",
+  "images": [
+    "red cheery.jpeg"
+  ],
+  "description": "Red cherry combines rich red gemstone beads with crystal accents and cherry charms to create a graceful accessory."
+},
+
+{
+  "id": "BC-034",
+  "name": "Pink kitty",
+  "title": "Pink kitty",
+  "price": "350",
+  "image": "pink.jpeg",
+  "images": [
+    "pink.jpeg"
+  ],
+  "description": "Pink kitty combines pink gemstone beads with crystal accents and kitty charms to create a graceful accessory."
+},
+
+{
+  "id": "BC-035",
+  "name": "Blue unikon",
+  "title": "Blue unikon",
+  "price": "200",
+  "image": "blue.jpeg",
+  "images": [
+    "blue.jpeg"
+  ],
+  "description": "Blue unikon combines blue gemstone beads with crystal accents and unique unikon charms to create a graceful accessory."
+},
+
+{
+  "id": "BC-036",
+  "name": "Grey smile",
+  "title": "Grey smile",
+  "price": "200",
+  "image": "simle.jpeg",
+  "images": [
+    "simle.jpeg"
+  ],
+  "description": "Grey smile combines grey gemstone beads with crystal accents and smile bead charms to create a graceful accessory."
+},
+
+{
+  "id": "BC-037",
+  "name": "Green heart",
+  "title": "Green heart",
+  "price": "250",
+  "image": "green.jpeg",
+  "images": [
+    "green.jpeg"
+  ],
+  "description": "Green heart combines green gemstone beads with crystal accents and heart charms to create a graceful accessory."
+},
   {
     "id": "BG-001",
     "name": "Floral Gajra set",
