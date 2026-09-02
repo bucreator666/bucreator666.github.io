@@ -337,7 +337,7 @@ window.BU_PRODUCTS = [
     "id": "BC-031",
     "name": "hairy",
     "title": "hairy",
-    "price": "450",
+    "price": "350",
     "image": "WhatsApp Image 2026-08-28 at 2.49.50 PM (1).jpeg",
     "images": [
       "WhatsApp Image 2026-08-28 at 2.49.47 PM (1).jpeg",
@@ -354,7 +354,7 @@ window.BU_PRODUCTS = [
     "id": "BC-032",
     "name": "hairy",
     "title": "hairy",
-    "price": "450",
+    "price": "350",
     "image": "WhatsApp Image 2026-08-28 at 2.49.49 PM.jpeg",
     "images": [
     
