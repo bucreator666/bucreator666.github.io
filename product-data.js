@@ -347,7 +347,7 @@ window.BU_PRODUCTS = [
       "WhatsApp Image 2026-08-28 at 2.49.47 PM (2).jpeg",
    
     ],
-    "description": "Emerald Butterfly combines rich green gemstone beads with crystal accents and butterfly charms to create a graceful accessory."
+    "description": "Emerald Butterfly combines 5 rich color  gemstone beads with crystal accents and  beautiful charms to create a graceful accessory."
   },
   
    {
@@ -364,7 +364,7 @@ window.BU_PRODUCTS = [
       "WhatsApp Image 2026-08-28 at 2.49.48 PM.jpeg",
       "WhatsApp Image 2026-08-28 at 2.49.48 PM (1).jpeg"
     ],
-    "description": "Emerald Butterfly combines rich green gemstone beads with crystal accents and butterfly charms to create a graceful accessory."
+    "description": "Emerald Butterfly combines 5 rich color  gemstone beads with crystal accents and  beautiful charms to create a graceful accessory."
   },
 
   {
