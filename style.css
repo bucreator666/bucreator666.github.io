@@ -768,3 +768,69 @@ main .price-note{color:var(--muted-black)!important}
   }
 
 }
+/* ===== PRODUCT DETAIL MAIN IMAGE - MOBILE FIX ===== */
+
+@media (max-width: 720px) {
+
+  .gallery-box {
+    width: 100% !important;
+    max-width: 100% !important;
+    overflow: hidden !important;
+    box-sizing: border-box !important;
+    border-radius: 11px !important;
+  }
+
+  .gallery-box .main-image-wrap {
+    width: 100% !important;
+    height: 300px !important;
+    max-width: 100% !important;
+    max-height: 300px !important;
+    overflow: hidden !important;
+    position: relative !important;
+    display: flex !important;
+    align-items: center !important;
+    justify-content: center !important;
+    box-sizing: border-box !important;
+    border-radius: 10px !important;
+  }
+
+  .gallery-box .main-image-wrap #mainProductImage {
+    position: static !important;
+    display: block !important;
+
+    width: auto !important;
+    height: auto !important;
+
+    max-width: calc(100% - 30px) !important;
+    max-height: calc(100% - 30px) !important;
+
+    object-fit: contain !important;
+    object-position: center !important;
+
+    padding: 0 !important;
+    margin: 0 auto !important;
+
+    transform: none !important;
+    box-sizing: border-box !important;
+  }
+
+  /* arrows ko image se bahar jane se rokna */
+  .gallery-box .gallery-arrow {
+    z-index: 10 !important;
+  }
+}
+
+
+/* Small phones */
+@media (max-width: 440px) {
+
+  .gallery-box .main-image-wrap {
+    height: 260px !important;
+    max-height: 260px !important;
+  }
+
+  .gallery-box .main-image-wrap #mainProductImage {
+    max-width: calc(100% - 24px) !important;
+    max-height: calc(100% - 24px) !important;
+  }
+}
